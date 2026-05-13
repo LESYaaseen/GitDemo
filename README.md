@@ -12,3 +12,7 @@ This is a Sample repository code for the Git Course.
 8. git config --list
 9. git merge chain
 10. git checkout main
+
+## Roadmap
+* Add new features
+* Change Readme file 
